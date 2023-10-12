@@ -1,0 +1,28 @@
+body {
+  Background-color: teal;
+  Color: black
+  Font-family: Arial, Helvetica, sans-serif;
+  margin: 5% 12%
+}
+
+.exp-header {
+  text-transform: bold; 
+  text-transform: uppercase;
+  border-top: 3px solid grey;
+  border-bottom: 3px solid grey;
+  text-align: center;
+  font-size: 25px
+  
+}
+
+.datetitle {
+  text-transform: bold;
+  border-bottom: 3px solid grey;
+  font-size: 15px;
+  text-transform: Uppercase;
+  
+}
+img {
+  width: 20%;
+  
+}
