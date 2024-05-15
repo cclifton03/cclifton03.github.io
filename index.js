@@ -1,6 +1,6 @@
 function downloadCV() {
   window.location.href =
-    "https://drive.google.com/uc?export=download&id=1Jzn1DMmF6Gs44OL4IvFq6MfLOwp_5GS-";
+    "https://drive.google.com/uc?export=download&id=1zvLQm75FgmoOqwvjwo9ZLHKWs8uraP46";
 }
 
 document.addEventListener("DOMContentLoaded", function () {
